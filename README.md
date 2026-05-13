@@ -1,7 +1,7 @@
 <h2 align="left">Hello There! My name is Chris!</h2>
 
 <div align="center">
-    <a href="https://www.codebycfh.co.uk"><h3>Visit My Website</h3></a>
+    <h3>Visit My Website</h3>
     <a href="https://www.codebycfh.co.uk"><img src="images/globe.gif" height="250" alt="rotating globe gif"/></a>
 </div>
 
