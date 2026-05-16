@@ -16,6 +16,8 @@
 
 <br/>
 
+<h3>🗒️ A little bit about me</h3>
+
 ```Python
 from dataclasses import dataclass
 
