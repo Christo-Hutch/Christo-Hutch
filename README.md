@@ -8,10 +8,19 @@
 
 ---
 
-<div style="width: 100%; text-align: left; font-size: 0;">
-    <div style="display: inline-block; width: 50%; min-width: 300px; vertical-align: top; font-size: small;">
-        
-```python
+<div style="float: right;">
+    <div align="center">
+        <h3>Visit My Website</h3>
+        <a href="https://www.codebycfh.co.uk">
+            <img src="images/globe.gif" height="250" alt="rotating globe gif"/>
+        </a>
+        <p style="opacity: 0.5; font-size: smaller;">Click Globe Above For Website</p>
+    </div>
+</div>
+
+<div style="display: inline-block;">
+
+```Python
 from dataclasses import dataclass
 
 @dataclass
@@ -19,14 +28,7 @@ class Developer:
     name: str = "Chris"
     role: str = "student @ RHUL"
     languages: list = ("Python", "Java")
-    status: str = "exploring low-level programming"
+    status: str = "exploring the world of low-level programming"
 ```
 
-</div>
-<div style="display: inline-block; width: 50%; min-width: 300px; vertical-align: middle; text-align: center; font-size: medium;">
-    <h3>Visit My Website</h3>
-    <a href="https://www.codebycfh.co.uk">
-        <img src="images/globe.gif" height="250" alt="rotating globe gif"/>
-    </a>
-    <p style="opacity: 0.5; font-size: smaller;">Click Globe Above For Website</p>
 </div>
