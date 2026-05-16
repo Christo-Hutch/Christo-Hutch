@@ -6,8 +6,8 @@
     <img style="border-radius: 10px;" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
 </div>
 
----
 <br/>
+
 <table width="100%" border="0" style="border-collapse: collapse; border: none; width: 100%;">
   <tr style="border: none;">
     <td valign="top" width="50%" style="border: none; padding-right: 20px;">
@@ -33,3 +33,5 @@ class Developer:
         </a>
         <p style="opacity: 0.5; font-size: smaller;">Click Globe Above For Website</p>
     </td>
+  </tr>
+</table>
