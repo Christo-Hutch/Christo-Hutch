@@ -11,7 +11,7 @@
     <a href="https://www.codebycfh.co.uk">
         <img src="images/globe.gif" height="230px" alt="rotating globe gif"/>
     </a>
-    <p style="opacity: 0.5; font-size: smaller;">Click Globe Above For Website</p>
+    <p style="color: grey; font-size: smaller;">Click Globe Above For Website</p>
 </div>
 
 <br/>
@@ -26,5 +26,6 @@ class Developer:
     name: str = "Chris"
     role: str = "student @ RHUL"
     languages: list = ("Python", "Java")
+    location: str = "United Kingdom"
     status: str = "exploring the world of low-level programming"
 ```
