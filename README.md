@@ -27,5 +27,5 @@ class Developer:
     role: str = "student @ RHUL"
     languages: list = ("Python", "Java")
     location: str = "United Kingdom"
-    status: str = "exploring the world of low-level programming"
+    status: str = "trying to find my favourite programming language"
 ```
